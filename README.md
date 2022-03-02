@@ -1,6 +1,9 @@
-# Deformetrica_coarse_to_fine
+# Coarse-to-fine Deformetrica
 
-# Deformetrica
+This code is an extension of the software Deformetrica.
+More specifically, it implements a coarse-to-fine strategy for atlas construction.
+
+## About Deformetrica
 
 
 Website: [www.deformetrica.org](http://www.deformetrica.org/)
