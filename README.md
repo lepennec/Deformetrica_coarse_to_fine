@@ -1,7 +1,28 @@
 # Coarse-to-fine Deformetrica
 
 This code is an extension of the software Deformetrica.
-More specifically, it implements a coarse-to-fine strategy for atlas construction.
+It implements a coarse-to-fine strategy for atlas construction.
+
+## Installation
+  
+    git clone https://github.com/fleurgaudfernau/Deformetrica_coarse_to_fine
+
+Create a virtual environment:
+
+    conda create -n deformetrica python=3.7 && source activate deformetrica
+
+OR
+
+    virtualenv -p python3 deformetrica && source deformetrica/bin/activate
+
+Install the requirements inside the new environment:
+
+    python3 -m pip install -r deformetrica_original/requirements.txt
+
+Install developer version:
+
+    python3 -m pip install Deformetrica_coarse_to_fine/.
+
 
 ## About Deformetrica
 
