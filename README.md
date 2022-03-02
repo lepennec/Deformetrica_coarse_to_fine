@@ -17,7 +17,7 @@ OR
 
 Install the requirements inside the new environment:
 
-    python3 -m pip install -r deformetrica_original/requirements.txt
+    python3 -m pip install -r Deformetrica_coarse_to_fine/requirements.txt
 
 Install developer version:
 
